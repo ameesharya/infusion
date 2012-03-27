@@ -70,12 +70,8 @@ img {
     font-size: 1.25em;
     margin-bottom: 1em;
 }
-.instructions p {
-	padding-top: 5px;	
-}
 .instructions .instruction-comment {
     font-size: 0.8em;
-	line-height: 1.4em;
 }
 .disp-opts-buttons {
     margin-top: 40px;
